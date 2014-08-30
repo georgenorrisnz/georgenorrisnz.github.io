@@ -1,0 +1,35 @@
+Body {
+	background-color:Snow;
+	font-family: helvetica;
+	color: black;
+	margin: 3rem auto;
+	padding: 10px;
+	line-height: 1.6em;
+}
+
+a:hover {color: #33CCFF;}
+
+.left{
+    background-color: Gainsboro;
+    float: center;
+    width: 61.8%;
+    margin: 3rem auto;
+    border-color: Snow;
+    border-style: solid;
+    border-radius:.5rem;
+    border-width: 1px;
+    display: block;
+    padding: 20px
+}
+
+.thumbnail{
+width: 95%;
+border-color: Lavender;
+    border-style: solid;
+    border-radius:.5rem;
+    border-width: 1px; 
+    margin: 1rem auto 2rem;
+    max-width: 80%;
+    padding: 1rem;
+    float: center;   
+}
