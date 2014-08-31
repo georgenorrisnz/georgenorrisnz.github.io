@@ -1,24 +1,24 @@
- pagebox {
+ #pagebox {
     background-color:#FFECDB; 
     width:60%; 
     margin-left:20%;
     margin-right:20%;
   }
   
-  footer {
+  #footer {
     background-color:#22313F; 
     height:50px;
     text-align:center;
     color: #EEEEEE;
   }
   
-  image {
+  #image {
     width:60%; 
     margin-left:20%;
     margin-right:20%;
   }
   
-  nav {
+  #nav {
     background-color:#22313F; 
     height:50px;
     text-align:center;
@@ -26,18 +26,18 @@
     position:relative;
   }
   
-  nav ul{
+  #nav ul{
     list-style-type:none;
     margin:0;
     padding:0;
     overflow:hidden;
   }
   
-  nav li{
+  #nav li{
     display:inline;
   }
   
-  nav a:link, a:visited {
+  #nav a:link, a:visited {
      width:220px;
      color:#FFFFFF;
      text-decoration:none;
